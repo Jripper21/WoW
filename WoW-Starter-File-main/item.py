@@ -1,3 +1,4 @@
+#jackson whipkey
 class Item:
     def __init__(self, name, item_type, power):
         self.__name = name  # private attribute
